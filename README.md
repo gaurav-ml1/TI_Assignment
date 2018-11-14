@@ -13,7 +13,7 @@ Solution:-
 
 Task #1, #2, #3, #4 will cover through bellow api.
 
-API:- http://35.227.56.33/api/v1/category/
+API:- http://35.231.223.106/api/v1/category/
 
 Method:- GET, POST, DELETE, UPDATE
 
@@ -21,11 +21,17 @@ Content-Type:- Application/Json
 
 Task #5 and #6 will be cover through this api-
 
-API:- http://35.227.56.33/api/v1/category/?params=id|name|description
+API:- http://35.231.223.106/api/v1/category/?params=id|name|description
 
 Method:- GET
 
 Content-type:- Application/json
 
+Django Admin:-
+
+http://35.231.223.106/admin
+
+USERNAME:- gaurav-ml
+PASSWORD:- cool@cool
 
 Note:- authenticated key mentioning user authentication status"- I could not understand it.
