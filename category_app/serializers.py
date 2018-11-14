@@ -13,7 +13,7 @@ class CategorySerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Category
-        fields = "__all__"
+        fields = ["name", "id", "description", "image", "is_active", "is_featured", "parent"]  # It should be list or tuple
 
     def get_field_names(self, declared_fields, info):
         """
