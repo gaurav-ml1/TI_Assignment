@@ -32,6 +32,7 @@ Django Admin:-
 http://35.231.223.106/admin
 
 USERNAME:- gaurav-ml
+
 PASSWORD:- cool@cool
 
 Note:- authenticated key mentioning user authentication status"- I could not understand it.
